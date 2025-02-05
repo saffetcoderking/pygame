@@ -1,6 +1,7 @@
 .. image:: https://raw.githubusercontent.com/pygame/pygame/main/docs/reST/_static/pygame_logo.svg
   :alt: pygame
-  :target: https://www.pygame.org/
+  :ta
+rget: https://www.pygame.org/
 
 
 |AppVeyorBuild| |PyPiVersion| |PyPiLicense|
